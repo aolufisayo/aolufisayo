@@ -1,4 +1,4 @@
-baseURL = 'https://www.aolufisayo.com'
+baseURL = 'https://www.aolufisayo.com/'
 languageCode = 'en-us'
 title = 'aolufisayo'
 theme = ["PaperMod"]

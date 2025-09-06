@@ -7,6 +7,9 @@ publishDir = "docs"
 relativeURLs = false
 canonifyURLs = true 
 
+[params]
+env = 'production'
+
 [menu]
   [[menu.main]]
     identifier = "home"

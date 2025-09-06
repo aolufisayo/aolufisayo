@@ -4,6 +4,8 @@ title = 'aolufisayo'
 theme = ["PaperMod"]
 enableEmoji = true
 publishDir = "docs"
+relativeURLs = false
+canonifyURLs = true 
 
 [menu]
   [[menu.main]]
